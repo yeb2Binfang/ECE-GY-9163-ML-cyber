@@ -12,7 +12,7 @@ In this lab, we need to implement the prune defence that we learnt from the clas
 </div>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68700549/145888192-7459abc4-2fc8-47fc-8248-2678847be151.png" align="center" height="300">
+<img src="https://user-images.githubusercontent.com/68700549/145888899-ddbb4e76-0075-4421-81c6-42d6aaf529b2.png" align="center" height="300">
 </p>
 
 <div align="justify"> 
